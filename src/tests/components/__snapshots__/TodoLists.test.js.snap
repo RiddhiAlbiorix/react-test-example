@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test TodoLists component with default state of empty array 1`] = `ShallowWrapper {}`;
+
+exports[`should test TodoLists component with list of todos 1`] = `ShallowWrapper {}`;
